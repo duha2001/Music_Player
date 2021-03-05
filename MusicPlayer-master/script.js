@@ -115,6 +115,30 @@ $(function () {
         url: "Musics/LofiChat.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
+    {
+        artist:"Vũ",
+        name:"Album của Vũ",
+        url: "Musics/AlbumVu.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"QuanAP",
+        name:"Album của Quân",
+        url: "Musics/AlbumQuanAP.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"Chilies",
+        name:"Album của Chilies",
+        url: "Musics/AlbumChilies.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"Thái Dinh",
+        name:"Album của Thái Dinh",
+        url: "Musics/AlbumThaiDinh.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
     ];
 
     function shuffle(a) {
