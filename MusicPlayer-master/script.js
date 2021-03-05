@@ -85,6 +85,36 @@ $(function () {
         url: "Musics/NhanPianoNheNhang.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
+    {
+        artist:"Hà Anh Tuấn",
+        name:"Tuyển Tập Những Bài Hát Hay Nhất Của Hà Anh Tuấn",
+        url: "Musics/AlbumHaAnhTuan.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"Bùi Anh Tuấn",
+        name:"Tuyển Tập Những Bài Hát Hay Nhất Của Bùi Anh Tuấn",
+        url: "Musics/AlbumBuiAnhTuan.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"Hoàng Dũng",
+        name:"Tuyển Tập Những Bài Hát Hay Nhất Của Hoàng Dũng",
+        url: "Musics/AlbumHoangDung.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"Hà Anh Tuấn",
+        name:"Liên Khúc Hát Về 4 Mùa Của Hà Anh Tuấn",
+        url: "Musics/4MuaBuiAnhTuan.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Tuyển Tập Những Bài Hát Lofi Hay Nhất",
+        url: "Musics/LofiChat.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
     ];
 
     function shuffle(a) {
