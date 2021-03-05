@@ -48,7 +48,43 @@ $(function () {
         name:"Cha Già Rồi Đúng Không",
         url: "Musics/ChaGiaRoiDungKhong.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }
+    },
+    {
+        artist:"V.A",
+        name:"Nhạc Lofi Hiphop Không Lời",
+        url: "Musics/LofiHipHopKhongLoi.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Những Bản Nhạc Lofi Việt",
+        url: "Musics/LofiNhacViet.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Nhạc Trẻ Nhẹ Nhàng Sâu Lắng",
+        url: "Musics/nhac_tre_nhe_nhang_sau_lang_nhung_ban_ballad_nhe_nhang_tam_trang_hay_nhat_2020_od_BBHMByoK-gucZ01g6.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Nhạc Lofi Buồn",
+        url: "Musics/NhacLofi.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Nhạc Trẻ Nonstop 2020",
+        url: "Musics/NhacTreRemix2020.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
+    {
+        artist:"V.A",
+        name:"Nhạc Piano Nhẹ Nhàng Sâu Lắng Không Lời",
+        url: "Musics/NhanPianoNheNhang.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },
     ];
 
     function shuffle(a) {
