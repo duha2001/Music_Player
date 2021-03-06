@@ -106,7 +106,7 @@ $(function () {
     {
         artist:"Hà Anh Tuấn",
         name:"Liên Khúc Hát Về 4 Mùa Của Hà Anh Tuấn",
-        url: "Musics/4MuaBuiAnhTuan.mp3",
+        url: "Musics/4MuaHaAnhTuan.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     },
     {
@@ -356,6 +356,5 @@ $(function () {
         playPreviousTrackButton.on('click', function () { selectTrack(-1); });
         playNextTrackButton.on('click', function () { selectTrack(1); });
     }
-
     initPlayer();
 });
